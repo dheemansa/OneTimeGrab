@@ -1,0 +1,5 @@
+/downloads
+.env
+.env.bak
+src/__pycache__/
+save.session
